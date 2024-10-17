@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178661811373",
+    "project_id": "sign-in-app-188b4",
+    "storage_bucket": "sign-in-app-188b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178661811373:android:f907cecc39550327fa5224",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfdwR7E-OB-XrLwI-MNDTMcssNgHoTyQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
